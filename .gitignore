@@ -1,0 +1,5 @@
+database
+src/assets/views/*
+src/experiments/**/catboost_info
+src/experiments/**/selected_files
+src/experiments/**/selected_data
