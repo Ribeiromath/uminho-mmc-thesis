@@ -1,5 +1,5 @@
 database
 src/assets/views/*
-src/experiments/**/catboost_info
-src/experiments/**/selected_files
-src/experiments/**/selected_data
+src/analysis/**/catboost_info
+src/analysis/**/selected_files
+src/analysis/**/selected_data
